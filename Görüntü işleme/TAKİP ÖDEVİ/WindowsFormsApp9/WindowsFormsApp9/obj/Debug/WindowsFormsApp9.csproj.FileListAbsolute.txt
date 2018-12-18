@@ -1,0 +1,135 @@
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.xml
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Imaging.xml
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Video.xml
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Math.xml
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojResolveAssemblyReference.cache
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.Cache
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Controls.xml
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Fuzzy.xml
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Genetic.xml
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.MachineLearning.xml
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Neuro.xml
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Video.VFW.xml
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Vision.xml
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Controls.dll
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.dll
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Fuzzy.dll
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Genetic.dll
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Imaging.dll
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.MachineLearning.dll
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Math.dll
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Neuro.dll
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Robotics.Lego.dll
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Robotics.Surveyor.dll
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Robotics.TeRK.dll
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Video.dll
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Video.VFW.dll
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Vision.dll
+C:\Users\esatt\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\IPPrototyper.exe
+C:\Users\ASUS\Desktop\2013010235064\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\ASUS\Desktop\2013010235064\1.2\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\ASUS\Desktop\2013010235064\1.2\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\ASUS\Desktop\2013010235064\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\ASUS\Desktop\2013010235064\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\ASUS\Desktop\2013010235064\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.xml
+C:\Users\ASUS\Desktop\2013010235064\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Controls.xml
+C:\Users\ASUS\Desktop\2013010235064\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Fuzzy.xml
+C:\Users\ASUS\Desktop\2013010235064\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Genetic.xml
+C:\Users\ASUS\Desktop\2013010235064\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Imaging.xml
+C:\Users\ASUS\Desktop\2013010235064\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\ASUS\Desktop\2013010235064\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.MachineLearning.xml
+C:\Users\ASUS\Desktop\2013010235064\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Math.xml
+C:\Users\ASUS\Desktop\2013010235064\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Neuro.xml
+C:\Users\ASUS\Desktop\2013010235064\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\ASUS\Desktop\2013010235064\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\ASUS\Desktop\2013010235064\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\ASUS\Desktop\2013010235064\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Video.xml
+C:\Users\ASUS\Desktop\2013010235064\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ASUS\Desktop\2013010235064\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\ASUS\Desktop\2013010235064\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\ASUS\Desktop\2013010235064\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Video.VFW.xml
+C:\Users\ASUS\Desktop\2013010235064\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\ASUS\Desktop\2013010235064\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Vision.xml
+C:\Users\ASUS\Desktop\2013010235064\1.2\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\2013010235064\1.2\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\ASUS\Desktop\2013010235064\1.2\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\ASUS\Desktop\2013010235064\1.2\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\görüntü işleme\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\ASUS\Desktop\görüntü işleme\1.2\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\ASUS\Desktop\görüntü işleme\1.2\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\ASUS\Desktop\görüntü işleme\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\ASUS\Desktop\görüntü işleme\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\ASUS\Desktop\görüntü işleme\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.xml
+C:\Users\ASUS\Desktop\görüntü işleme\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Controls.xml
+C:\Users\ASUS\Desktop\görüntü işleme\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Fuzzy.xml
+C:\Users\ASUS\Desktop\görüntü işleme\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Genetic.xml
+C:\Users\ASUS\Desktop\görüntü işleme\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Imaging.xml
+C:\Users\ASUS\Desktop\görüntü işleme\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\ASUS\Desktop\görüntü işleme\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.MachineLearning.xml
+C:\Users\ASUS\Desktop\görüntü işleme\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Math.xml
+C:\Users\ASUS\Desktop\görüntü işleme\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Neuro.xml
+C:\Users\ASUS\Desktop\görüntü işleme\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\ASUS\Desktop\görüntü işleme\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\ASUS\Desktop\görüntü işleme\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\ASUS\Desktop\görüntü işleme\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Video.xml
+C:\Users\ASUS\Desktop\görüntü işleme\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ASUS\Desktop\görüntü işleme\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\ASUS\Desktop\görüntü işleme\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\ASUS\Desktop\görüntü işleme\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Video.VFW.xml
+C:\Users\ASUS\Desktop\görüntü işleme\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\ASUS\Desktop\görüntü işleme\1.2\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Vision.xml
+C:\Users\ASUS\Desktop\görüntü işleme\1.2\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\görüntü işleme\1.2\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\ASUS\Desktop\görüntü işleme\1.2\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\ASUS\Desktop\görüntü işleme\1.2\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\görüntü işleme\TAKİP ÖDEVİ\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\ASUS\Desktop\görüntü işleme\TAKİP ÖDEVİ\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\ASUS\Desktop\görüntü işleme\TAKİP ÖDEVİ\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\ASUS\Desktop\görüntü işleme\TAKİP ÖDEVİ\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\ASUS\Desktop\görüntü işleme\TAKİP ÖDEVİ\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\ASUS\Desktop\görüntü işleme\TAKİP ÖDEVİ\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.xml
+C:\Users\ASUS\Desktop\görüntü işleme\TAKİP ÖDEVİ\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Controls.xml
+C:\Users\ASUS\Desktop\görüntü işleme\TAKİP ÖDEVİ\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Fuzzy.xml
+C:\Users\ASUS\Desktop\görüntü işleme\TAKİP ÖDEVİ\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Genetic.xml
+C:\Users\ASUS\Desktop\görüntü işleme\TAKİP ÖDEVİ\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Imaging.xml
+C:\Users\ASUS\Desktop\görüntü işleme\TAKİP ÖDEVİ\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\ASUS\Desktop\görüntü işleme\TAKİP ÖDEVİ\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.MachineLearning.xml
+C:\Users\ASUS\Desktop\görüntü işleme\TAKİP ÖDEVİ\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Math.xml
+C:\Users\ASUS\Desktop\görüntü işleme\TAKİP ÖDEVİ\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Neuro.xml
+C:\Users\ASUS\Desktop\görüntü işleme\TAKİP ÖDEVİ\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\ASUS\Desktop\görüntü işleme\TAKİP ÖDEVİ\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\ASUS\Desktop\görüntü işleme\TAKİP ÖDEVİ\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\ASUS\Desktop\görüntü işleme\TAKİP ÖDEVİ\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Video.xml
+C:\Users\ASUS\Desktop\görüntü işleme\TAKİP ÖDEVİ\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ASUS\Desktop\görüntü işleme\TAKİP ÖDEVİ\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\ASUS\Desktop\görüntü işleme\TAKİP ÖDEVİ\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\ASUS\Desktop\görüntü işleme\TAKİP ÖDEVİ\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Video.VFW.xml
+C:\Users\ASUS\Desktop\görüntü işleme\TAKİP ÖDEVİ\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\ASUS\Desktop\görüntü işleme\TAKİP ÖDEVİ\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AForge.Vision.xml
+C:\Users\ASUS\Desktop\görüntü işleme\TAKİP ÖDEVİ\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\görüntü işleme\TAKİP ÖDEVİ\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\ASUS\Desktop\görüntü işleme\TAKİP ÖDEVİ\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\ASUS\Desktop\görüntü işleme\TAKİP ÖDEVİ\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.Cache
